@@ -1713,9 +1713,9 @@ Provide the incorporation or registration type:
 
 
 
-| Incorporated or registered? Fields | * - Incorporated * - I |
+| Incorporated or registered? Fields | * - Incorporated * - Registered Instructions |
 | --- | --- |
-|  | Registered nstructions |
+|  |  |
 
 * - Incorporated and registered, or
 * - Unknown
@@ -5382,9 +5382,9 @@ Provide information about how the transaction was started.
 | ‡ Type of funds, assets or virtual currency (In/Out | * - Jewellery – To be used when the client brings in jewellery to start a transaction. Jewellery means objects made of precious metals, precious stones or pearls that are intended for personal adornment. * - Mobile money transfer – To be used when the starting action involves an incoming mobile transfer using the recipient's phone number. * - Money order – To be used when the client brings in a money order to start a transaction. A money order is a certificate, usually issued by a government or financial institution that allows the stated payee to receive cash on demand. * - Precious metals – To be used when the client brings in precious metal(s) to start a transaction.  Precious metals means gold, silver, palladium and platinum in the form of coins, bars, ingots, granules or in other similar forms. |
 | † If "Other," please specify | Provide a description of the type of funds, assets for virtual currency. Enter the total amount of funds, assets or virtual currency involved in the starting action. |
 | \ Amount\* * † Currency / † Virtual | If this amount was not in Canadian dollars (CAD), do not convert it to CAD but provide the currency or virtual currency type in the next field. Enter the fiat currency (including if it was in Canadian dollars) or virtual currency of the starting action. If the currency or virtual currency type is not in the lists provided, you must select "Other" and provide the |
-| * † If "Other," please specify  Exchange rate | If "Other", provide the full name of the currency or virtual currency type. The sending virtual currency address is made up of a number of alpha-numeric characters. |
+| * † If "Other," please specify  Exchange rate | If "Other", provide the full name of the currency or virtual currency type. or virtual currency. The sending virtual currency address is made up of a number of alpha-numeric characters. |
 | currency type | full name of the currency. |
-| * † Virtual currency transaction identifier * † Sending virtual | Provide the rate of exchange that you used for the transaction. This can be an exchange rate for fiatcurrency or virtual currency. This is a unique identifier. It is commonly represented by a hash consisting of mixed numerical and alphabetical characters. |
+| * † Virtual currency transaction identifier * † Sending virtual | Provide the rate of exchange that you used for the transaction. This can be an exchange rate for fiatcurrency This is a unique identifier. It is commonly represented by a hash consisting of mixed numerical and alphabetical characters. |
 | currency | The address length is determined by the type of virtual currency used in the transaction. |
 
 If the direction of the starting action is in, select one of the following based on what the client brought or transferred in to start the transaction: 
@@ -15587,9 +15587,9 @@ The training program is missing priority elements, such as maintaining training 
 
 
 
-| of | weaknesses. Type of | transactions; and Key ML/TF concepts including background | Penalty (not considering mitigating factors) |
+| of | weaknesses. Type of | transactions; and scription of the non-compliance for the requirement Key ML/TF concepts including background how ML/TF related to the business. | Penalty (not considering mitigating factors) |
 | --- | --- | --- | --- |
-| Level harm | non-compliance An element that forms the basis for achieving the objectives of the Act or | Description of the non-compliance for the trainingprogram requirement * 3. information on how ML/TF related to the business.  The training program is missing basic elements, such as: |  |
+| Level harm | non-compliance An element that forms the basis for achieving the objectives of the Act or | Detrainingprogram * 3. information on  The training program is missing basic elements, such as: |  |
 | Level 3 | FINTRAC's mandate is not met. This is partial non-compliance with moderate weaknesses. | * 1. Frequency or timing of the training to be delivered; and * 2. Content that is relevant and specific for all employees, agents, and those acting on the RE's behalf. | $50,000 |
 
 Level 4 
